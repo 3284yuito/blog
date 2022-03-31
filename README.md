@@ -1,5 +1,11 @@
 # blog
 
+- 8th commit by pc1
+
+
+
+
+
 - 4th commit by pc2
 
 - 1st commit
