@@ -8,7 +8,8 @@
 
 - 4th commit by pc2
 
-- 1st commit
+- 1st commit by pc2
+- 9th commit by pc2
 - 3rd commit by pc2
 - 5th commit by pc1
 - 7th commit by pc1
